@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dff7d1b8-9080-4215-a5f2-1fe8e9563ee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/subscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AllPosts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Feed/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NotFound/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SinglePost/Comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SinglePost/CommentForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SinglePost/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UserProfile/Status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UserProfile/Subscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UserProfile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/auth/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/auth/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/Loader/Loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/Loader/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/Post/Like.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/Post/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/PostForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/ProfileImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/subscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1czr3FJQXbdL9YGPp09qrUxXnNb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controllers/status.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\furso\YandexDisk\koa-backend\client\src\actions" />
+      <recent name="C:\Users\furso\YandexDisk\koa-backend\client\src\components\shared" />
+      <recent name="C:\Users\furso\YandexDisk\koa-backend\client\src" />
+      <recent name="C:\Users\furso\YandexDisk\koa-backend\client" />
+      <recent name="C:\Users\furso\YandexDisk\koa-backend\handlers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="status.test.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="$PROJECT_DIR$/controllers/status.js" working-dir="$PROJECT_DIR$/tests/controllers">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.status.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff7d1b8-9080-4215-a5f2-1fe8e9563ee5" name="Default Changelist" comment="" />
+      <created>1591542061283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591542061283</updated>
+      <workItem from="1591542062856" duration="2710000" />
+      <workItem from="1591551426708" duration="80936000" />
+      <workItem from="1591874465419" duration="30143000" />
+      <workItem from="1592333547613" duration="240000" />
+      <workItem from="1592333896849" duration="44000" />
+      <workItem from="1592334053058" duration="4000" />
+      <workItem from="1592334108436" duration="9866000" />
+      <workItem from="1592384553300" duration="4097000" />
+      <workItem from="1592562831665" duration="8164000" />
+      <workItem from="1592755587056" duration="9858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591907069928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="473" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591907069928" />
+    <state x="2630" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591556987628" />
+    <state x="473" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1591617170012" />
+    <state x="479" y="0" key="#users.test.js" timestamp="1592767488641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="479" y="0" key="#users.test.js/0.0.1280.680@0.0.1280.680" timestamp="1592767488641" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1592767439295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591902320945" />
+    <state x="2552" y="145" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591557059922" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1592767439295" />
+    <state width="1259" height="224" key="GridCell.Tab.0.bottom" timestamp="1592566495887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="224" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591819691716" />
+    <state width="1259" height="224" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592566495887" />
+    <state width="1259" height="224" key="GridCell.Tab.0.center" timestamp="1592566495887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="224" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591819691716" />
+    <state width="1259" height="224" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592566495887" />
+    <state width="1259" height="224" key="GridCell.Tab.0.left" timestamp="1592566495887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="224" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591819691716" />
+    <state width="1259" height="224" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592566495887" />
+    <state width="1259" height="224" key="GridCell.Tab.0.right" timestamp="1592566495887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="224" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591819691716" />
+    <state width="1259" height="224" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592566495887" />
+    <state x="252" y="0" key="SettingsEditor" timestamp="1591767615752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="252" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591767615752" />
+    <state x="2381" y="164" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591555533946" />
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591691400415" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1591970455480">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="411" y="157" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1591733374174" />
+    <state x="2536" y="240" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591970455480" />
+    <state x="415" y="147" width="448" height="444" key="search.everywhere.popup" timestamp="1591685725827">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591606117634" />
+    <state x="415" y="147" width="448" height="444" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1591685725827" />
+  </component>
+</project>
